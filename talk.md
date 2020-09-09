@@ -63,18 +63,23 @@ Students with no research experience are welcome!
 
 ---
 
-# Possible Projects
+# Possible Projects (I)
 
-## Computational Biology
+### Computational Biology
 
-- Analysing the co-occurrence networks of ARGs
+- Analysing the co-occurrence networks of antibiotic resistance genes (ARGs)
 
-## Methods
+### Methods
 
-- Can we find cryptic AMPs in proteins?
+- Can we find [cryptic
+  AMPs](http://big-data-biology.org/blog/2020/04/10/cryptic/) in proteins?
 - Algorithms for small memory quantification in metagenomes
 
-## Tools
+---
+
+# Possible Projects (II)
+
+### Tools
 
 - Add more downstream analysis to
   [GMGC-mapper](https://gmgc-mapper.readthedocs.io). Based on Jupyter and the
@@ -82,7 +87,8 @@ Students with no research experience are welcome!
 - Add SNP analysis to [NGLess](https://ngless.embl.de/)
 - Improve [NGLessPy](https://ngless.embl.de/nglesspy.html)
 
-## Community/documentation
+### Community/documentation
 
 - Create videos/tutorials/run an online class...
 
+_We will decide individually..._
