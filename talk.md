@@ -36,7 +36,11 @@
 
 # What does "successful completion" mean?
 
-- Deliverables: code/data and a blogpost/presentation.
+- Art/science-focused project: A piece in whatever medium
+- Outreach-focused project: A presentation, a tutorial, an online course,...
+- Deliverables: code/data and a blogpost/presentation
+
+Again, this will be individually defined
 
 ---
 
@@ -51,7 +55,7 @@ Anyone can apply, but this programme is primarily aimed at:
 
 Students with no research experience are welcome!
 
-**Current deadline**: _September 30 2020_ any timezone
+**Current deadline**: _March 31 2021_ any timezone
 
 ---
 
@@ -90,5 +94,6 @@ Students with no research experience are welcome!
 ### Community/documentation
 
 - Create videos/tutorials/run an online class...
+- Create an _art piece_ around our work
 
 _We will decide individually..._
