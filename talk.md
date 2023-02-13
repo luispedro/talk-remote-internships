@@ -1,5 +1,16 @@
 # Remote internships @ Big Data Biology Lab
 
+
+WE WILL START AT THREE MINUTES PAST NOON
+
+I assume you can hear me
+
+---
+
+# BDB-Lab
+
+- [https://www.big-data-biology.org/](https://www.big-data-biology.org/)
+
 ---
 
 # Time commitment
@@ -23,8 +34,9 @@
 
 # You get
 
-- Weekly meetings with the PI (Luis Pedro Coelho) for discussing the project
-  and mentoring.
+- Weekly meetings with supervisor (either Luis or someone else) for discussing
+  the project and mentoring.
+- Meetings with the PI (Luis Pedro Coelho)
 - Meetings with other [lab members](https://big-data-biology.org/people) and
   participation in the group meetings/discussions.
 - A small stipendium (450 USD) upon successful completion.
@@ -55,7 +67,7 @@ Anyone can apply, but this programme is primarily aimed at:
 
 Students with no research experience are welcome!
 
-**Current deadline**: _March 31 2021_ any timezone
+**Current deadline**: _Feb 28 2022_ any timezone
 
 ---
 
@@ -69,31 +81,28 @@ Students with no research experience are welcome!
 
 # Possible Projects (I)
 
+### Community/documentation
+
+- Create videos/tutorials/run an online class...
+- Create an _art piece_ around our work...
+
 ### Computational Biology
 
-- Analysing the co-occurrence networks of antibiotic resistance genes (ARGs)
+- Synteny between small proteins and antimicrobial resistance genes
 
-### Methods
-
-- Can we find [cryptic
-  AMPs](http://big-data-biology.org/blog/2020/04/10/cryptic/) in proteins?
-- Algorithms for small memory quantification in metagenomes
+_This list is not exhaustive: we will decide individually..._
 
 ---
 
 # Possible Projects (II)
 
+### Methods
+
+- Algorithms for small memory quantification in metagenomes
+
 ### Tools
 
-- Add more downstream analysis to
-  [GMGC-mapper](https://gmgc-mapper.readthedocs.io). Based on Jupyter and the
-  Python Data Science Ecosystem.
-- Add SNP analysis to [NGLess](https://ngless.embl.de/)
+- Improve [SemiBin](http://github.com/BigDataBiology/SemiBin)
 - Improve [NGLessPy](https://ngless.embl.de/nglesspy.html)
 
-### Community/documentation
-
-- Create videos/tutorials/run an online class...
-- Create an _art piece_ around our work
-
-_We will decide individually..._
+_This list is not exhaustive: we will decide individually..._
